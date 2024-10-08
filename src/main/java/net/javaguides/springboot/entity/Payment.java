@@ -23,4 +23,5 @@ public class Payment {
     private int expiryYear;
     private int expiryMonth;
     private Long orderId;
+    private int cvc;
 }

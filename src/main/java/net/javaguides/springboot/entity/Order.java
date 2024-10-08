@@ -28,6 +28,7 @@ public class Order {
     private BigDecimal totalPrice;
     private String status;
 
+
     @CreationTimestamp
     private LocalDateTime dateCreated;
 
